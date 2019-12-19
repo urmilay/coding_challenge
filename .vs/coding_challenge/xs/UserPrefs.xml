@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C7A489ED-73E2-4D02-A2A0-88A00167F724}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OWP.Interviews.GetConfig/Services/IConfigService.cs">
+    <Files>
+      <File FileName="OWP.Interviews.GetConfig/EmptyInterface.cs" Line="1" Column="1" />
+      <File FileName="OWP.Interviews.GetConfig/Services/IConfigService.cs" Line="8" Column="1" />
+      <File FileName="OWP.Interviews.GetConfig/Services/ConfigService.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="coding_challenge" expanded="True">
+            <Node name="OWP.Interviews.GetConfig" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="IConfigService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OWP.Interviews.GetConfig PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
